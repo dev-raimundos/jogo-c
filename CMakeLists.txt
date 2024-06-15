@@ -5,7 +5,7 @@ set(CMAKE_C_STANDARD 11)
 
 include_directories(.)
 
-add_executable(Trabalhp
+add_executable(Trabalho
         acaoPersonagem.h
         main.c
         personagem.c

@@ -1,0 +1,3 @@
+/home/raimundos/VSCodeProjects/jogo-c/build/CMakeFiles/Trabalho.dir
+/home/raimundos/VSCodeProjects/jogo-c/build/CMakeFiles/edit_cache.dir
+/home/raimundos/VSCodeProjects/jogo-c/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/raimundos/VSCodeProjects/jogo-c/build",
+  "command": "/usr/bin/cc  -I/home/raimundos/VSCodeProjects/jogo-c/. -g -std=gnu11 -o CMakeFiles/Trabalho.dir/main.c.o -c /home/raimundos/VSCodeProjects/jogo-c/main.c",
+  "file": "/home/raimundos/VSCodeProjects/jogo-c/main.c",
+  "output": "CMakeFiles/Trabalho.dir/main.c.o"
+},
+{
+  "directory": "/home/raimundos/VSCodeProjects/jogo-c/build",
+  "command": "/usr/bin/cc  -I/home/raimundos/VSCodeProjects/jogo-c/. -g -std=gnu11 -o CMakeFiles/Trabalho.dir/personagem.c.o -c /home/raimundos/VSCodeProjects/jogo-c/personagem.c",
+  "file": "/home/raimundos/VSCodeProjects/jogo-c/personagem.c",
+  "output": "CMakeFiles/Trabalho.dir/personagem.c.o"
+}
+]

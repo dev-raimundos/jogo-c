@@ -1,6 +1,7 @@
 #include "acaoPersonagem.h"
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
 // Implementação da função para ataque fraco
 int ataque_fraco() {

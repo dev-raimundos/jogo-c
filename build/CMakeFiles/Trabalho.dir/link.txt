@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Trabalho.dir/main.c.o CMakeFiles/Trabalho.dir/personagem.c.o -o Trabalho 
